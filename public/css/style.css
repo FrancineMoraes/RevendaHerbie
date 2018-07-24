@@ -1,0 +1,21 @@
+
+#app
+{
+    color: #66c7c2
+}
+
+.my-header
+{
+    width: 100%;
+    background: #387bad !important;
+}
+
+a
+{
+    color: #ddd !important;    
+}
+
+a:hover
+{
+    color: #fff !important;
+}
